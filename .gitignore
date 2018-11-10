@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 /node_modules
 log.txt
 /dir2
+=======
+log.txt
+/node_modules
+>>>>>>> login
