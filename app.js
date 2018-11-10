@@ -10,7 +10,7 @@ const notes = require('./notes');
 // Revceving command line arguments 
 const argv = yargs.argv;
 let command = process.argv[2];
-console.log('changed again');
+console.log('changed again at 4:32');
 
 command = argv._[0];
 console.log("Command : ",command);
